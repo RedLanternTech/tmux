@@ -19,6 +19,7 @@ I leave my prefix as the default `CTRL + B`
 | Prefix + y | Synchronize Panes | |
 | Prefix + c | Create a New Window | |
 | Prefix + k | Kill a Window | Prefix + & |
+| Prefix + x | Kill a Pane | |
 | Prefix + Number | Go to that specific window | |
 | Prefix + , | Rename Window | can also do `tmux rename-window name` |
 | Prefix + d | Disconnects a Session | |
